@@ -1,2 +1,3 @@
-# my_html
-Przykładowa strona HTML
+# Moje HTML
+
+Przykładowa strona HTML.
