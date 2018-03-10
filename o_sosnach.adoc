@@ -2,6 +2,11 @@
 
 Drzewa iglaste zyja dlugo.
 
+TODO:
+
+. https://asciidoctor.org/docs/user-manual/#ordered-lists[Lista uporzadowana].
+. cos jeszcze
+
 ## Kilka zdjec
 
 ## Tabelka z nazwami lacinskim, dlufosc zycia
