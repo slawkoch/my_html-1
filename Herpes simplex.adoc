@@ -1,10 +1,11 @@
 # Herpes simplex (zakażenia opryszczkowe)
----------
-=Wirusy opryszczki pospolitej/zwykłej
 
-=Choroba zakaźna wywołana przez wirusy HSV1 i HSV2 (Herpes simplex virus).
----------
-== 1	Choroby wywołane przez HSV1
+Wirusy opryszczki pospolitej/zwykłej
+
+Choroba zakaźna wywołana przez wirusy HSV1 i HSV2 (Herpes simplex virus).
+
+
+# 1	Choroby wywołane przez HSV1
 
   1.1	Opryszczka wargowa
 
