@@ -1,8 +1,21 @@
 # Herpes simplex (zakażenia opryszczkowe)
 
-Wirusy opryszczki pospolitej,
-HSV (herpes simplex virus, HHV-1 i HHV-2, human herpesvirus - ludzki herpeswirus)
+Wirusy opryszczki pospolitej/zwykłej
 
+Choroba zakaźna wywołana przez wirusy HSV1 i HSV2 (Herpes simplex virus).
+1	Choroby wywołane przez HSV1
+  1.1	Opryszczka wargowa
+  1.2	Opryszczkowe zapalenia jamy ustnej
+  1.3	Egzema herpeticum
+  1.4	Opryszczkowe zapalenie mózgu i opon mózgowych
+  1.5	Inne zmiany narządowe
+2	Choroby wywołane przez HSV2
+  2.1	Opryszczka narządów płciowych
+  2.2	Zakażenie wrodzone
+3	Leczenie
+  3.1	Miejscowe
+  3.2	Ogólne
+  3.3	Szczepionka
 
 Drzewa iglaste zyja dlugo.
 
