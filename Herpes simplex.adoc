@@ -45,7 +45,9 @@ Choroby wywołane przez HSV1|Choroby wywołane przez HSV2
 
 ## Kilka zdjęć
 
-image::opryszczka.jpg[]
+image::opryszczka wargowa.jpg[]
+
+
 
 TODO:
 
