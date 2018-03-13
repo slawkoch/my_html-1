@@ -31,6 +31,8 @@ Choroba zakaźna wywołana przez wirusy HSV1 i HSV2 (Herpes simplex virus).
 
   3.3	Szczepionka
 
+## Tabela
+
 |===
 Choroby wywołane przez HSV1|Choroby wywołane przez HSV2
 
