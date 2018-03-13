@@ -36,8 +36,8 @@ Choroby wywołane przez HSV1|Choroby wywołane przez HSV2
 
 |Opryszczka wargowa|Opryszczka narządów płciowych
 |Opryszczkowe zapalenia jamy ustnej|Zakażenie wrodzone
-|Egzema herpeticum
-|Opryszczkowe zapalenie mózgu i opon mózgowych
+|Egzema herpeticum|
+|Opryszczkowe zapalenie mózgu i opon mózgowych| 
 |===
 
 #Inne zmiany narządowe
