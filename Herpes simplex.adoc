@@ -31,7 +31,16 @@ Choroba zakaźna wywołana przez wirusy HSV1 i HSV2 (Herpes simplex virus).
 
   3.3	Szczepionka
 
-Drzewa iglaste zyja dlugo.
+|===
+Choroby wywołane przez HSV1|Choroby wywołane przez HSV2
+
+|Opryszczka wargowa|Opryszczka narządów płciowych
+|Opryszczkowe zapalenia jamy ustnej|Zakażenie wrodzone
+|Egzema herpeticum
+|Opryszczkowe zapalenie mózgu i opon mózgowych
+|===
+
+#Inne zmiany narządowe
 
 TODO:
 
