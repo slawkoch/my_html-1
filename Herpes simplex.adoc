@@ -45,7 +45,9 @@ Choroby wywołane przez HSV1|Choroby wywołane przez HSV2
 
 ## Kilka zdjęć
 
+[#img-sopyszczka]
 image::opryszczka wargowa.jpg[opryszczka,300,200]
+https://pl.wikipedia.org/wiki/Zaka%C5%BCenia_opryszczkowe#/media/File:Herpes_labialis_-_opryszczka_wargowa.jpg
 
 
 
