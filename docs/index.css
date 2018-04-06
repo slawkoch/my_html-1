@@ -13,8 +13,8 @@ body {
 
 .one {
   background-image: url(ilovegdynialogo.png)
-    grid-template-columns: repeat(3, 3fr);
-    grid-template-rows: repeat(3, 3fr);
+    grid-template-columns: 3fr;
+    grid-template-rows: 3fr;
 }
 
 .two {
