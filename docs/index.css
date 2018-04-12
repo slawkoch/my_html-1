@@ -28,13 +28,16 @@ body {
 }
 
 .four {
-  background-color: #dd0000;
+  background-color:aquamarine;
     grid-area:5/3/7/6;
 }
 .five{
   background-color:hotpink ;
     grid-area:4/3/5/4;
 }
+.six{
+ background-color:purple ; 
+    grid-area:
 
 .main > div {
   display: flex;
