@@ -35,9 +35,6 @@ body {
   background-color:hotpink ;
     grid-area:4/3/5/4;
 }
-.six{
- background-color:purple ; 
-    grid-area:
 
 .main > div {
   display: flex;
