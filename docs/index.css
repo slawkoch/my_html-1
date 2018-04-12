@@ -5,28 +5,35 @@ body {
 .main {
   display: grid;
   grid-gap: 5px;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
   height: 100vh;
   width: 100vw;
 }
 
 .one {
   background-image: url(ilovegdynialogo.png)
-    grid-template-columns: 3fr;
-    grid-template-rows: 3fr;
+    grid-area: 1/1/4/4;
+    
 }
 
 .two {
   background-color:blueviolet ;
+    grid-area:1/4/5/6;
 }
 
 .three {
   background-color:hotpink ;
+    grid-area:4/1/7/3;
 }
 
 .four {
   background-color: #dd0000;
+    grid-area:5/3/7/6;
+}
+.five{
+  background-color:hotpink ;
+    grid-area:4/3/5/4;
 }
 
 .main > div {
