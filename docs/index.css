@@ -13,7 +13,10 @@ body {
 
 .one {
   background-image: url(//unsplash.it/800/600);
-   background-blend-mode:multiplay;
+  background-blend-mode:multiplay;
+  background-color:$black;
+  background:$light-grey;
+  background-size: cover;
     grid-area: 1/1/4/4;
     
 }
