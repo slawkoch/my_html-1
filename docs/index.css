@@ -33,7 +33,7 @@ body {
 }
 
 .five {
-  background-color:SlateBlue;
+  background-color:url(//picsum.photos/200/300);
     grid-area:4/3/5/4;
 }
 
