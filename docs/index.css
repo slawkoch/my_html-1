@@ -11,7 +11,7 @@ body {
 }
 .one {
   grid-area: 1/1/4/4;
-  background-image: url(//unsplash.it/800/600);
+  background-image: url(https://as2.ftcdn.net/jpg/01/07/89/35/500_F_107893572_ZneNZ8168VaeUSWKSu9wb8bbCyhnnkAD.jpg);
     background-color: $black;
     background-blend-mode:multiplay;
     background:$light-grey;
