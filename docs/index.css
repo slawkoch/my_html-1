@@ -11,7 +11,7 @@ body {
 }
 .one {
   grid-area: 1/1/4/4;
-  background-image: url(https://as2.ftcdn.net/jpg/00/87/68/55/500_F_87685566_Nt7OsiZGg6rcdFXUZUmu815lqCftb9Go.jpg);
+  background-image: url(https://cdn.pixabay.com/photo/2018/04/11/06/03/flamingo-3309628_1280.jpg);
     background-color: $black;
     background-blend-mode:multiplay;
     background:$light-grey;
