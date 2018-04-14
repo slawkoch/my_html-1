@@ -11,7 +11,7 @@ body {
 }
 .one {
   grid-area: 1/1/4/4;
-  background-image: url(https://cdn.pixabay.com/photo/2018/04/11/06/03/flamingo-3309628_1280.jpg);
+  background-image: url(https://cdn.pixabay.com/photo/2018/03/12/04/00/mammal-3218712__480.jpg);
     background-color: $black;
     background-blend-mode:multiplay;
     background:$light-grey;
