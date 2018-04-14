@@ -16,10 +16,10 @@ body {
 .one {
   grid-area: 1/1/4/4;
   background-image: url(//unsplash.it/800/600);
-  background-color: $black;
-  background-blend-mode:multiplay;
-  background:$light-grey;
-  background-size: cover;      
+    background-color: $black;
+    background-blend-mode:multiplay;
+    background:$light-grey;
+    background-size: cover;      
 }
 .two {
   grid-area:1/4/5/6;
