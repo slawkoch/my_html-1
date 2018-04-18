@@ -11,7 +11,7 @@ body {
 }
 .one {
   grid-area: 1/1/4/4;
-  background-image: url(https://cdn.pixabay.com/photo/2018/03/13/11/26/time-3222267_1280.jpg);   
+  background-image: url(https://cdn.pixabay.com/photo/2016/11/03/19/14/hearts-1795849_1280.png);   
 }
 .two {
   grid-area:1/4/5/6;
