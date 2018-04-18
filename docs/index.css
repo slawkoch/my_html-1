@@ -27,7 +27,7 @@ body {
 }
 .five {
   grid-area:4/3/5/4;
-  background-image: url(https://cdn.pixabay.com/photo/2017/12/10/20/56/feather-3010848__480.jpg);
+  background-image: url(https://www.publicdomainpictures.net/pictures/160000/t2/coeurs-rouges-et-blancs.jpg);
 }
 .main > div {
   display: flex;
