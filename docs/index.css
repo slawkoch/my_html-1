@@ -15,7 +15,7 @@ body {
   background-image: url(https://github.com/mnke-j/my_html/blob/master/Gdynia/ilovegdynialogo.png?raw=true);   
   background-size:contain;
   background-position: top left;
-  padding: 50px;
+  padding: 250px;
 }
 .two {
   grid-area:1/4/5/6;
