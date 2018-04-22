@@ -25,15 +25,16 @@ body {
   background-image:url(https://images.unsplash.com/photo-1513738883496-ab16da46fbe0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cb7158d294f59cf73b854a6165a8b8c8&auto=format&fit=crop&w=600&q=60); 
 }
 .four {
+  grid-area:4/3/5/4;
+  background-image: url(https://images.unsplash.com/photo-1513569369873-3f6af50652bf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b4b1a9bd2a3a0641bf963f4c22fe80da&auto=format&fit=crop&w=600&q=60);
+}
+.five {
   grid-area:5/3/7/6;
   background-image: url(https://images.unsplash.com/photo-1508881598441-324f3974994b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2aef1e2f3895c40e891654ae51f9c1e3&auto=format&fit=crop&w=600&q=60);
   background-size:cover;
   background-position: top left;
 }
-.five {
-  grid-area:4/3/5/4;
-  background-image: url(https://images.unsplash.com/photo-1513569369873-3f6af50652bf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b4b1a9bd2a3a0641bf963f4c22fe80da&auto=format&fit=crop&w=600&q=60);
-}
+
 .main > div {
   display: flex;
   flex-direction: column;
@@ -45,6 +46,6 @@ body {
     display: block;
   }
   .main > div {
-    height: 50px;
+    height: 200px;
   }
 }
