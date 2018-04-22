@@ -13,7 +13,7 @@ body {
    
   grid-area: 1/1/4/4;
   background-image: url(https://github.com/mnke-j/my_html/blob/master/Gdynia/ilovegdynialogo.png?raw=true);   
-  background-size:cover;
+  background-size:contain;
   background-position: top left;
 }
 .two {
