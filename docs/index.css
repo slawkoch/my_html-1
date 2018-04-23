@@ -38,7 +38,7 @@ body {
 }
 .five {
   grid-area:5/3/7/6;
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9DikeAi6dqdIJUbUAWbJq6NFs5YULq2RhJRuNw4BFsA52R9_);
+  background-image: url(https://cdn.pixabay.com/photo/2016/12/17/14/33/wave-1913559__480.jpg);
   background-size:cover;
   background-position: top left;
 }
