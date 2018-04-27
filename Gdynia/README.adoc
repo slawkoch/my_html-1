@@ -1,4 +1,4 @@
-= _Hello, Gdynia !!!_  image::ilovegdynialogo.png[ilovegdynia,400]
+= _Hello, Gdynia !!!_  image::ilovegdynialogo.png[ilovegdynialogo,400]
 
 
 == Biuletyn Informacji Publicznej Urzędu Miasta Gdyni:
