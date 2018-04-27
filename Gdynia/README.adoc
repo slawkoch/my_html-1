@@ -1,4 +1,4 @@
-= _Hello, Gdynia !!!_      image::ilovegdynialogo.png[ilovegdynialogo,400]
+= _Hello, Gdynia !!!_      image::ilovegdynialogo.png[ilovegdynialogo,500]
 
 
 == Biuletyn Informacji Publicznej Urzędu Miasta Gdyni:
@@ -20,7 +20,7 @@ POWIERZCHNIA ogółem - 13 514 ha.
 
 ** Grunty Skarbu Państwa w użytkowaniu wieczystym wynoszą 7,76 ha.
 
-== Ludność Gdyni w liczbach:
+== Ludność Gdyni w liczbach:  image::ilovegdynialogo.png
 
 |===
 | Wyszczególnienie	|  na dzień 30 VI 2017
