@@ -1,4 +1,5 @@
 = _HELLO, GDYNIA !!!_      
+
 image::ilovegdynialogo.png[ilovegdynialogo,250]
 
 
