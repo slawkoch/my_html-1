@@ -87,5 +87,5 @@ POWIERZCHNIA ogółem - 13 514 ha.
 == Logo miasta Gdynia:
 
 
-.Logo Gdynia
 image::logo-Gdynia.jpg[logo-Gdynia,600]
+Rys.1.Logo Gdynia
