@@ -1,6 +1,7 @@
 = _HELLO, GDYNIA !!!_      
 
 image::ilovegdynialogo.png[ilovegdynialogo,250]
+Rys.1. I Love Gdynia
 
 
 == Biuletyn Informacji Publicznej Urzędu Miasta Gdyni:
@@ -88,4 +89,4 @@ POWIERZCHNIA ogółem - 13 514 ha.
 
 
 image::logo-Gdynia.jpg[logo-Gdynia,600]
-Rys.1.Logo Gdynia
+Rys.2. Logo Gdynia
