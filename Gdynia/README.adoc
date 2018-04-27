@@ -4,7 +4,7 @@ image::ilovegdynialogo.png[ilovegdynialogo,250]
 Rys.1. I Love Gdynia
 
 
-== Biuletyn Informacji Publicznej Urzędu Miasta Gdyni:
+== Biuletyn Informacji Publicznej Urzędu Miasta Gdyni
 
 * [x] <http://gdynia.pl/bip>
 
@@ -13,7 +13,7 @@ Rys.1. I Love Gdynia
 * [x] e-mail: <http://umgdynia@gdynia.pl>
 
 
-== Powierzchnia:
+== Powierzchnia
 
 POWIERZCHNIA ogółem - 13 514 ha.
 
@@ -23,7 +23,7 @@ POWIERZCHNIA ogółem - 13 514 ha.
 
 ** Grunty Skarbu Państwa w użytkowaniu wieczystym wynoszą 7,76 ha.
 
-== Ludność Gdyni w liczbach:  image::ilovegdynialogo.png
+== Ludność Gdyni w liczbach  
 
 |===
 | Wyszczególnienie	|  na dzień 30 VI 2017
@@ -31,9 +31,10 @@ POWIERZCHNIA ogółem - 13 514 ha.
 | mężczyźni | 116 517
 | kobiety | 130 126
 |===
+Tabela. 1. Ludność Gdyni
 
 
-== Dzielnice Gdyni:
+== Dzielnice Gdyni
 [squere]
 .Renderowana lista nieuporządkowana z tytułem
 
